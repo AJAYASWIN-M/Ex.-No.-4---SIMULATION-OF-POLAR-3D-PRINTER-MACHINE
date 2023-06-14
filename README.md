@@ -69,7 +69,7 @@ Material that is used to create the printed object.
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/88273b69-4e7d-4f42-9115-fb07ac22e4ec)
 
-## Output:
+
 
 ### Name:AJAY ASWIN M
 ### Register Number:212222240005
